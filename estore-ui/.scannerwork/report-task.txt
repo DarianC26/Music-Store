@@ -1,0 +1,6 @@
+projectKey=musicstore2
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=musicstore2
+ceTaskId=AX__f3iIgHw5Pn_QqqZK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX__f3iIgHw5Pn_QqqZK
